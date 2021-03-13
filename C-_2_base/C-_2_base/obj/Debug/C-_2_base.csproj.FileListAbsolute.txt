@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\C-_2_base\C-_2_base\bin\Debug\C-_2_base.exe.config
+C:\Users\Alex\source\repos\C-_2_base\C-_2_base\bin\Debug\C-_2_base.exe
+C:\Users\Alex\source\repos\C-_2_base\C-_2_base\bin\Debug\C-_2_base.pdb
+C:\Users\Alex\source\repos\C-_2_base\C-_2_base\obj\Debug\C-_2_base.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C-_2_base\C-_2_base\obj\Debug\C-_2_base.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\C-_2_base\C-_2_base\obj\Debug\C-_2_base.exe
+C:\Users\Alex\source\repos\C-_2_base\C-_2_base\obj\Debug\C-_2_base.pdb
